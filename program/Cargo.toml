@@ -1,0 +1,14 @@
+[package]
+version = "0.1.0"
+name = "fibonacci-program"
+edition = "2021"
+
+[dependencies]
+alloy-sol-types = { workspace = true }
+sp1-zkvm = "3.0.0-rc4"
+fibonacci-lib = { path = "../lib" }
+
+crypto-bigint = "0.6.0-pre.12"
+num-bigint="0.4.6"
+serde = "1.0.204"
+serde_json = "1.0.132"
