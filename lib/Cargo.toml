@@ -5,3 +5,6 @@ edition = "2021"
 
 [dependencies]
 alloy-sol-types = { workspace = true }
+serde = "1.0.204"
+serde_json = "1.0.132"
+num-bigint={version="0.4.6", features = ["rand", "serde"]}
