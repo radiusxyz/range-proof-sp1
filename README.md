@@ -1,6 +1,6 @@
-# SP1 Project Template
+# Range Proof on SP1
 
-This is a template for creating an end-to-end [SP1](https://github.com/succinctlabs/sp1) project
+This is forked from a template for creating an end-to-end [SP1](https://github.com/succinctlabs/sp1) project
 that can generate a proof of any RISC-V program.
 
 ## Requirements
